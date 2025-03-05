@@ -41,9 +41,12 @@ s.n. dasgupta
 ```
 ### Display the content of the files
 cat < file1
+![image](https://github.com/user-attachments/assets/9948a726-b5e1-471c-9f51-44662280294b)
+
 ## OUTPUT
 
 
+![image](https://github.com/user-attachments/assets/5cb4da15-f9df-456a-8238-447f5bef3f48)
 
 cat < file2
 ## OUTPUT
